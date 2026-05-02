@@ -55,7 +55,7 @@ const AboutSection = () => {
             Liderado por un equipo de profesionales en constante
             formación, nuestro salón es un espacio donde la pasión por el
             cabello y la atención al detalle se fusionan para crear experiencias
-            únicas
+            ún
           </motion.p>
 
           <div className="flex flex-wrap justify-center gap-8 md:gap-16">
